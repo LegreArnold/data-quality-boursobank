@@ -1,0 +1,16 @@
+category,total_transactions,total_fraudes,taux_fraude
+'es_barsandrestaurants',6373,120,1.88
+'es_contents',885,0,0.0
+'es_fashion',6454,116,1.8
+'es_food',26254,0,0.0
+'es_health',16133,1696,10.51
+'es_home',1986,302,15.21
+'es_hotelservices',1744,548,31.42
+'es_hyper',6098,280,4.59
+'es_leisure',499,474,94.99
+'es_otherservices',912,228,25.0
+'es_sportsandtoys',4002,1982,49.53
+'es_tech',2370,158,6.67
+'es_transportation',505119,0,0.0
+'es_travel',728,578,79.4
+'es_wellnessandbeauty',15086,718,4.76

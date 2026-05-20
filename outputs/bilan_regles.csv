@@ -1,0 +1,6 @@
+Regle,Description,Type,Anomalies,Criticite
+RG01,ID Client vide,Completude,0,Conforme
+RG02,Age hors referentiel,Format,61761,Critique
+RG03,Genre inconnu,Format,515,Modere
+RG04,Montant nul,Coherence,52,Modere
+RG05,Doublons,Unicite,0,Conforme
